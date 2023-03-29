@@ -1,0 +1,17 @@
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\bin\Debug\net6.0-windows\Crassroom-object.exe
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\bin\Debug\net6.0-windows\Crassroom-object.deps.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\bin\Debug\net6.0-windows\Crassroom-object.runtimeconfig.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\bin\Debug\net6.0-windows\Crassroom-object.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\bin\Debug\net6.0-windows\Crassroom-object.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.csproj.AssemblyReference.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom_object.Form1.resources
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.csproj.GenerateResource.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.AssemblyInfoInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.AssemblyInfo.cs
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.csproj.CoreCompileInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\refint\Crassroom-object.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\Crassroom-object.genruntimeconfig.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\Crassroom-Object\Crassroom-object\Crassroom-object\obj\Debug\net6.0-windows\ref\Crassroom-object.dll
